@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-basic"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-basic.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-basic-complete.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-build.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-configure.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-download.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-install.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-mkdir.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-patch.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mutex-basic"
+		],
+		"name" : "mutex-basic"
+	}
+}

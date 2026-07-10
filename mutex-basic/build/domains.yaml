@@ -1,0 +1,7 @@
+default: mutex-basic
+build_dir: /home/goodbyte/Projects/NCS-Projects/mutex-basic/build
+domains:
+  - name: mutex-basic
+    build_dir: /home/goodbyte/Projects/NCS-Projects/mutex-basic/build/mutex-basic
+flash_order:
+  - mutex-basic

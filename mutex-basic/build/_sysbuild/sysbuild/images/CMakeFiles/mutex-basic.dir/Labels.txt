@@ -1,0 +1,13 @@
+# Target labels
+ mutex-basic
+# Source files and their labels
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-basic
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-basic.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-basic-complete.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-build.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-configure.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-download.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-install.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-mkdir.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-patch.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-basic/build/_sysbuild/sysbuild/images/mutex-basic-prefix/src/mutex-basic-stamp/mutex-basic-update.rule
