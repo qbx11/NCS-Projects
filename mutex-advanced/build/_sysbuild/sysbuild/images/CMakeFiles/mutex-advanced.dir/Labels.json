@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-complete.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-build.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-configure.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-download.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-install.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-mkdir.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-patch.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mutex-advanced"
+		],
+		"name" : "mutex-advanced"
+	}
+}

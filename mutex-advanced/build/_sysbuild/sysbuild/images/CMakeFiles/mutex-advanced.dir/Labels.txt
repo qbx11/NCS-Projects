@@ -1,0 +1,13 @@
+# Target labels
+ mutex-advanced
+# Source files and their labels
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-complete.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-build.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-configure.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-download.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-install.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-mkdir.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-patch.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced/build/_sysbuild/sysbuild/images/mutex-advanced-prefix/src/mutex-advanced-stamp/mutex-advanced-update.rule
