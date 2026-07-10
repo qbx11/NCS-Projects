@@ -1,0 +1,8 @@
+cmake:
+  board:
+    name: 'nrf5340dk'
+    path:
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/boards/nordic/nrf5340dk'
+    qualifiers: 'nrf5340/cpuapp'
+    revision: ''
+version: '0.1.0'

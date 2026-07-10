@@ -1,0 +1,6 @@
+west:
+  command: /home/goodbyte/ncs/toolchains/fbf7391cab/usr/local/bin/west build --build-dir
+    /home/goodbyte/Projects/NCS-Projects/mutex-advanced-4/build /home/goodbyte/Projects/NCS-Projects/mutex-advanced-4
+    --pristine --board nrf5340dk/nrf5340/cpuapp -- -DCONFIG_DEBUG_THREAD_INFO=y
+  topdir: /home/goodbyte/ncs/v3.4.0
+  version: 1.5.0
