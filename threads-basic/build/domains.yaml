@@ -1,0 +1,7 @@
+default: l7_e1
+build_dir: /home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e1/build
+domains:
+  - name: l7_e1
+    build_dir: /home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e1/build/l7_e1
+flash_order:
+  - l7_e1
