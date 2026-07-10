@@ -1,0 +1,27 @@
+# ninja log v7
+10	19	1783676268263819676	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-mkdir	11d563d09926b1f
+10	19	1783676268263819676	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-mkdir	11d563d09926b1f
+20	29	1783676268272819739	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-download	d62f60a3beb73fe3
+20	29	1783676268272819739	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-download	d62f60a3beb73fe3
+29	39	1783676268282819810	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-update	bd015956ec0ce4b6
+29	39	1783676268282819810	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-update	bd015956ec0ce4b6
+39	46	1783676268289819860	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-patch	cb493f52a8c031b0
+39	46	1783676268289819860	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-patch	cb493f52a8c031b0
+46	55	1783676268298819923	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-configure	48013d858cbbed6d
+46	55	1783676268298819923	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-configure	48013d858cbbed6d
+55	13481	1783676268299819930	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-build	40e21092d1d20c7
+55	13481	1783676268299819930	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-build	40e21092d1d20c7
+13481	13485	1783676281725914970	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-install	8af47298c3a85c86
+13481	13485	1783676281725914970	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-install	8af47298c3a85c86
+13485	13497	1783676281740915076	_sysbuild/sysbuild/images/CMakeFiles/l7_e2-complete	9b57aed62b76c755
+13485	13497	1783676281740915076	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-done	9b57aed62b76c755
+13485	13497	1783676281740915076	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l7_e2-complete	9b57aed62b76c755
+13485	13497	1783676281740915076	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-done	9b57aed62b76c755
+11	81	1783676304570076678	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-build	40e21092d1d20c7
+11	81	1783676304570076678	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-build	40e21092d1d20c7
+81	86	1783676304640077174	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-install	8af47298c3a85c86
+81	86	1783676304640077174	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-install	8af47298c3a85c86
+86	99	1783676304656077287	_sysbuild/sysbuild/images/CMakeFiles/l7_e2-complete	9b57aed62b76c755
+86	99	1783676304656077287	_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-done	9b57aed62b76c755
+86	99	1783676304656077287	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/CMakeFiles/l7_e2-complete	9b57aed62b76c755
+86	99	1783676304656077287	/home/goodbyte/Projects/DevAcademy/ncs-fund/l7/l7_e2/build/_sysbuild/sysbuild/images/l7_e2-prefix/src/l7_e2-stamp/l7_e2-done	9b57aed62b76c755

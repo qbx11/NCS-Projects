@@ -1,0 +1,2 @@
+"nrf":"/home/goodbyte/ncs/v3.4.0/nrf":"/home/goodbyte/ncs/v3.4.0/nrf/sysbuild"
+"mcuboot":"/home/goodbyte/ncs/v3.4.0/bootloader/mcuboot":"/home/goodbyte/ncs/v3.4.0/bootloader/mcuboot/boot/zephyr/sysbuild"
