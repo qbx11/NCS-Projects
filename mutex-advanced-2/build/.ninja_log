@@ -1,0 +1,19 @@
+# ninja log v7
+11	21	1783689518529842726	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-mkdir	44a7d5acf35daa85
+11	21	1783689518529842726	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-mkdir	44a7d5acf35daa85
+21	28	1783689518536842368	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-download	f7ecd36eae4a7fa2
+21	28	1783689518536842368	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-download	f7ecd36eae4a7fa2
+28	35	1783689518543842010	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-update	b3a59a23d0fe0d8f
+28	35	1783689518543842010	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-update	b3a59a23d0fe0d8f
+35	43	1783689518551841600	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-patch	415ae8f9d7de1775
+35	43	1783689518551841600	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-patch	415ae8f9d7de1775
+43	52	1783689518560841140	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-configure	2a5822aef755f9d
+43	52	1783689518560841140	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-configure	2a5822aef755f9d
+52	13943	1783689518561841089	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-build	aaf35b88e0c6a7e
+52	13943	1783689518561841089	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-build	aaf35b88e0c6a7e
+13943	13950	1783689532453134282	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-install	5a0630af69636686
+13943	13950	1783689532453134282	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-install	5a0630af69636686
+13950	13962	1783689532469133472	_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2-complete	cefa47a0ec9f84ce
+13950	13962	1783689532469133472	_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-done	cefa47a0ec9f84ce
+13950	13962	1783689532469133472	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2-complete	cefa47a0ec9f84ce
+13950	13962	1783689532469133472	/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-done	cefa47a0ec9f84ce

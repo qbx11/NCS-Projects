@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2-complete.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-build.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-configure.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-download.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-install.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-mkdir.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-patch.rule"
+		},
+		{
+			"file" : "/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mutex-advanced-2"
+		],
+		"name" : "mutex-advanced-2"
+	}
+}

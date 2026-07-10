@@ -1,0 +1,7 @@
+default: mutex-advanced-2
+build_dir: /home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build
+domains:
+  - name: mutex-advanced-2
+    build_dir: /home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/mutex-advanced-2
+flash_order:
+  - mutex-advanced-2

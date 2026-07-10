@@ -1,0 +1,13 @@
+# Target labels
+ mutex-advanced-2
+# Source files and their labels
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/CMakeFiles/mutex-advanced-2-complete.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-build.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-configure.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-download.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-install.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-mkdir.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-patch.rule
+/home/goodbyte/Projects/NCS-Projects/mutex-advanced-2/build/_sysbuild/sysbuild/images/mutex-advanced-2-prefix/src/mutex-advanced-2-stamp/mutex-advanced-2-update.rule
