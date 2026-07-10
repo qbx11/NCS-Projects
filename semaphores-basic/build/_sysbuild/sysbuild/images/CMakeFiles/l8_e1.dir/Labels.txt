@@ -1,0 +1,13 @@
+# Target labels
+ l8_e1
+# Source files and their labels
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l8_e1
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l8_e1.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/CMakeFiles/l8_e1-complete.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-build.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-configure.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-download.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-install.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-mkdir.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-patch.rule
+/home/goodbyte/Projects/DevAcademy/ncs-fund/l8/l8_e1/build/_sysbuild/sysbuild/images/l8_e1-prefix/src/l8_e1-stamp/l8_e1-update.rule
