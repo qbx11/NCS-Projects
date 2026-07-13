@@ -1,0 +1,56 @@
+cmake:
+  application:
+    configuration-dir: '/home/goodbyte/ncs/v3.4.0/nrf/applications/ipc_radio'
+    source-dir: '/home/goodbyte/ncs/v3.4.0/nrf/applications/ipc_radio'
+  board:
+    name: 'nrf5340dk'
+    path:
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/boards/nordic/nrf5340dk'
+    qualifiers: 'nrf5340/cpunet'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - '/home/goodbyte/ncs/v3.4.0/nrf/dts/bindings'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/bindings'
+    files:
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/boards/nordic/nrf5340dk/nrf5340dk_nrf5340_cpunet.dts'
+    include-dirs:
+     - '/home/goodbyte/ncs/v3.4.0/nrf/include'
+     - '/home/goodbyte/ncs/v3.4.0/nrf/dts/common'
+     - '/home/goodbyte/ncs/v3.4.0/nrf/dts/riscv'
+     - '/home/goodbyte/ncs/v3.4.0/nrf/dts/arm'
+     - '/home/goodbyte/ncs/v3.4.0/nrf/dts'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/include'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/include/zephyr'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/common'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/vendor'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/rx'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/x86'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/xtensa'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/sparc'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/riscv'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/posix'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/arm64'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/arm'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts/arc'
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/dts'
+  kconfig:
+    extra-user-files:
+     - '/home/goodbyte/ncs/v3.4.0/nrf/applications/ipc_radio/overlay-bt_hci_ipc.conf'
+    files:
+     - '/home/goodbyte/ncs/v3.4.0/zephyr/boards/nordic/nrf5340dk/nrf5340dk_nrf5340_cpunet_defconfig'
+     - '/home/goodbyte/ncs/v3.4.0/nrf/applications/ipc_radio/prj.conf'
+     - '/home/goodbyte/ncs/v3.4.0/nrf/applications/ipc_radio/overlay-bt_hci_ipc.conf'
+     - '/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/ipc_radio/zephyr/.config.sysbuild'
+    user-files:
+     - '/home/goodbyte/ncs/v3.4.0/nrf/applications/ipc_radio/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: '/home/goodbyte/ncs/toolchains/fbf7391cab/opt/zephyr-sdk'
+  vendor-specific:
+    nordic:
+      svdfile: '/home/goodbyte/ncs/v3.4.0/modules/hal/nordic/nrfx/bsp/stable/mdk/nrf5340_network.svd'
+  zephyr:
+    version: '4.4.0'
+    zephyr-base: '/home/goodbyte/ncs/v3.4.0/zephyr'
+version: '0.1.0'

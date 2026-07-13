@@ -1,0 +1,10 @@
+default: l2_e1
+build_dir: /home/goodbyte/Projects/bt-fund/l2/l2_e1/build
+domains:
+  - name: l2_e1
+    build_dir: /home/goodbyte/Projects/bt-fund/l2/l2_e1/build/l2_e1
+  - name: ipc_radio
+    build_dir: /home/goodbyte/Projects/bt-fund/l2/l2_e1/build/ipc_radio
+flash_order:
+  - ipc_radio
+  - l2_e1

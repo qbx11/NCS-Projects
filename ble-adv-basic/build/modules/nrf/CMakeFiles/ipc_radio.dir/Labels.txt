@@ -1,0 +1,13 @@
+# Target labels
+ ipc_radio
+# Source files and their labels
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/CMakeFiles/ipc_radio
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/CMakeFiles/ipc_radio.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/CMakeFiles/ipc_radio-complete.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-build.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-configure.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-download.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-install.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-mkdir.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-patch.rule
+/home/goodbyte/Projects/bt-fund/l2/l2_e1/build/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-update.rule
